@@ -1,0 +1,15 @@
+{
+  "name": "josh",
+  "version": "1.0.0",
+  "description": "Website",
+  "main": "p5.dom.js",
+  "dependencies": {
+    "angular-file-md5": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

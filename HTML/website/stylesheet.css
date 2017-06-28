@@ -1,0 +1,44 @@
+body {
+  background-color: #f9f7d9;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: static;
+    
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #F7D45E;
+}
+
+.active {
+  background-color: #777;
+}
+
+
+.logo {
+  font-size: 3.5eM;
+  position: static;
+
+  width: 20px;
+  height: auto;
+}

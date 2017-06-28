@@ -1,0 +1,27 @@
+
+#login {
+  width: auto;
+  height: auto;
+  border: 1px solid black;
+  float: right;
+
+}
+
+#username {
+  width: auto;
+  height: 40;
+  float: right;
+}
+#password {
+  width: auto;
+  height: 40;
+  float: right;
+  clear: both;
+}
+
+#but {
+
+  float: right;
+  clear: both;
+
+}
